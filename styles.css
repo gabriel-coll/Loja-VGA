@@ -1,0 +1,151 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+  }
+  
+  .hero-section {
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://www.hardware.com.br/wp-content/uploads/static/wp/2022/03/02/Placa-de-video-wpp.jpg') center/cover no-repeat;
+  }
+  
+  .hero-section h1 {
+    font-size: 3rem;
+  }
+  
+  .hero-section p {
+    font-size: 1.5rem;
+  }
+  
+  .card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  footer {
+    background-color: #003366;
+  }
+
+  /* Fundo e cards */
+body {
+  background-color: #fdfdfd;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
+}
+
+/* Mensagem flutuante */
+.mensagem-sucesso {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    font-weight: bold;
+    z-index: 1000;
+  }
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+  }
+  
+  .hero-section {
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://www.hardware.com.br/wp-content/uploads/static/wp/2022/03/02/Placa-de-video-wpp.jpg') center/cover no-repeat;
+  }
+  
+  .hero-section h1 {
+    font-size: 3rem;
+  }
+  
+  .hero-section p {
+    font-size: 1.5rem;
+  }
+  
+  .card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  footer {
+    background-color: #003366;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .navbar {
+    background-color: #007bff;
+  }
+  
+  footer {
+    background-color: #007bff;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-body {
+    background-color: #ffffff;
+  }
+  
+  #carrinho {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  #finalizar-compra {
+    display: none;
+    margin-top: 20px;
+  }
+  
+  #produtos {
+    background-color: #ffffff;
+    padding-top: 20px;
+  }
+  
+  #produtos .row .col-md-4 {
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    color: #007bff;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  footer p {
+    margin: 0;
+    padding: 10px;
+    font-size: 14px;
+    color: #fff;
+  }
+  
+  #carrinho ul {
+    padding-left: 0;
+  }
+
+  
